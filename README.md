@@ -39,9 +39,9 @@ For expanded scores preparation see [Patrice Thibaud, Mathieu Giraud, Yann Teyta
 |Performer|file ID|year|instrument|Youtube playlist link|
 |:----:|:---:|:----:|:----:|:----:|
 |Pierre Fournier|OV-R-Fournier1961|1961|cello|[🔊](https://www.youtube.com/watch?v=WShgQkaFlV4)|
-|Sung Oribe|AR-R-Oribe|-|guitar|[🔊](https://www.youtube.com/watch?v=wg9eJ19VETY)|
+|Sung Oribe|AR-R-Oribe|2025|guitar|[🔊](https://www.youtube.com/watch?v=wg9eJ19VETY)|
 
-- For Systematic rendering Piano performances 5 takes with different microphone positions (Close/Room) or amount of reverberation (Dry/Rev). File IDs used:
+- For Systematic rendering Piano performances 5 takes with different microphone setups (Close/Room/HandRec) or amount of reverberation (Dry/Rev). File IDs used:
 `SR-R-ReproPno-CloseRev` ; `SR-ReproPno-CloseDry` ; `SR-ReproPno-HandRecDry` ; `SR-ReproPno-RoomDry` ; `SR-ReproPno-RoomRev`
 
 ## Measures downbeat onsets
